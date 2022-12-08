@@ -1,2 +1,2 @@
 Merge conflict
-This is example of Merge Conflict by Parent
+conflict by Child
